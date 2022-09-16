@@ -1,0 +1,30 @@
+.slider{
+    appearance: none;
+    margin-top:80px;
+    border-radius: 10px;
+    width:60%;
+    height: 3px; 
+    background: lightgray;
+    opacity: 0.7;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px; 
+    border: 3px solid black;
+    border-radius: 100%;
+    background: transparent;
+    cursor: pointer; 
+  }
+
+.slider:hover{
+    opacity: 1;
+}
+
+
+.slider-label{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}

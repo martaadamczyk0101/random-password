@@ -1,0 +1,46 @@
+.info-div{
+    text-align:left;
+    margin-left:15%;
+    margin-top:110px;
+    font-family: 'Montserrat', sans-serif;
+}
+#secure-info{
+    font-size:18.72 px;
+    font-weight: 500;
+    opacity: 0.9;
+}
+
+ul{
+    font-size:17px;;
+    list-style:none;
+}
+
+ul li:before {
+    content:'';
+    display: inline-block;
+    margin-left:-5%;
+    margin-right:5px;
+    padding:4px;
+    border-radius: 100%;
+    border: 1px solid rgb(155, 155, 168);
+    width: 5px;
+    height: 5px;
+    line-height: 1;
+}
+
+ul li{
+    margin:10px;
+    line-height: 2;
+}
+
+.line-info{
+    margin-left:36%;
+    margin-top:20px;
+    width:10%;
+}
+
+.end-img{
+    margin-top:70px;
+    margin-left:7%;
+    opacity: 0.1;
+}
