@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-password/static/css/main.c9575360.css",
+    "main.js": "/random-password/static/js/main.8b9778cd.js",
+    "static/media/bg2.jpg": "/random-password/static/media/bg2.3557e24d3ac9c735121f.jpg",
+    "static/media/refresh.png": "/random-password/static/media/refresh.93f80cebc044b6c7c8f1.png",
+    "index.html": "/random-password/index.html",
+    "main.c9575360.css.map": "/random-password/static/css/main.c9575360.css.map",
+    "main.8b9778cd.js.map": "/random-password/static/js/main.8b9778cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9575360.css",
+    "static/js/main.8b9778cd.js"
+  ]
+}
